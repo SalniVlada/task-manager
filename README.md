@@ -17,3 +17,7 @@ npm install
 ```
 npm run serve
 ```
+
+## Cсылка на проект
+
+[GitHub pages](https://salnivlada.github.io/task-manager/)
